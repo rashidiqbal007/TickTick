@@ -9,3 +9,9 @@ export const ADD_TODO = gql`
         }
     }
 `
+// delete any todo
+export const DELETE_TODO  = gql`
+    mutation deleteTodo($id:ID){
+        deleteTodo(id:$id)
+    }
+`
