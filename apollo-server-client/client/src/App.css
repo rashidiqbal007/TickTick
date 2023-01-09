@@ -1,0 +1,18 @@
+body{
+  background-color: gray;
+}
+.todo-box{
+  background-color: white;
+  width: 30rem;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+  padding: 2rem;
+  margin-top: 10px;
+  -webkit-box-shadow: 5px 5px 15px 5px;
+  -moz-box-shadow: 5px 5px 15px 5px;
+}
+.list-group{
+  margin-top: 1rem;
+}
