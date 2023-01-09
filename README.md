@@ -11,3 +11,4 @@ get data frontend thru query from resolver
 frontend form component map data props se
 frontend todo component map data etc
 get data frontend thru mutation now from resolver
+UPDATE: USE REF in addtodo
