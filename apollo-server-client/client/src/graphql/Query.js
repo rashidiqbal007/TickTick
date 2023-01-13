@@ -1,4 +1,4 @@
-import {gql} from "@apollo/client"
+import { gql } from "@apollo/client"
 
 export const GET_TODOS = gql`
     {
@@ -7,6 +7,7 @@ export const GET_TODOS = gql`
             title
             detail
             date
+         
         }
     }
 `

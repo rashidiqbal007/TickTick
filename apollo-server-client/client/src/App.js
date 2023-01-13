@@ -30,7 +30,7 @@ function App() {
               id={todo.id}
               title={todo.title}
               detail={todo.detail}
-              date={todo.detail}
+              date={todo.date}
             />
           ))}
 

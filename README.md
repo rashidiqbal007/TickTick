@@ -12,3 +12,14 @@ frontend form component map data props se
 frontend todo component map data etc
 get data frontend thru mutation now from resolver
 UPDATE: USE REF in addtodo
+
+
+
+delete icon flexend
+time creation
+checkbox css , pic border
+clear input after adding
+BONUS:
+DOCKERIZE
+TESTING
+UPDATE 
