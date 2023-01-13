@@ -1,12 +1,17 @@
 # TICK TICK
-A task management app to help you stay organized and manage your day-to-day. 
+A task management app to help you stay organized and manage your day-to-day. :grinning:
 
 # TECHNOLOGIES USED:
 REACT
+ 
 BOOTSTRAP
+
 APOLLO SERVER
+
 GRAPHQL
+
 NODE
+
 MONGODB
 
 # HOW TO RUN?
@@ -21,8 +26,11 @@ nodemon index
 
 ## for front-end
 cd apollo-server-client
+
 cd client
+
 npm install
+
 npm start
 
 
