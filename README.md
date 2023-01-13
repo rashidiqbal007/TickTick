@@ -1,25 +1,25 @@
-# TickTick
-server (resolver, typreDefs, indexjs)
-make model
-connect to db
-query to get the TO-DOs
-import todos models in resolvers
-write getspecificid query in typedefs and resolvers
-delete todo
-update data with mutations
-get data frontend thru query from resolver
-frontend form component map data props se
-frontend todo component map data etc
-get data frontend thru mutation now from resolver
-UPDATE: USE REF in addtodo
+#TICK TICK
+A task management app to help you stay organized and manage your day-to-day. 
+
+#TECHNOLOGIES USED:
+REACT
+BOOTSTRAP
+APOLLO SERVER
+GRAPHQL
+NODE
+MONGODB
+
+#HOW TO RUN?
+##for server
+cd apollo-server-client
+cd server
+npm install
+nodemon index
+
+##for front-end
+cd apollo-server-client
+cd client
+npm install
+npm start
 
 
-
-delete icon flexend
-time creation
-checkbox css , pic border
-clear input after adding
-BONUS:
-DOCKERIZE
-TESTING
-UPDATE 
