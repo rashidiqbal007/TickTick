@@ -12,8 +12,11 @@ MONGODB
 # HOW TO RUN?
 ## for server
 cd apollo-server-client
+
 cd server
+
 npm install
+
 nodemon index
 
 ## for front-end
